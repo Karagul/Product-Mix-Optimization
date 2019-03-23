@@ -145,7 +145,7 @@ print("Optimum number of XP to produce: ",problem.variables()[1].varValue)
     
 
 #### Conclusion
-PC Tech Company should produce 560 of computer type Basic and 1200 of computer type XP to achieve maximum profit of $199,600.
+PC Tech Company should produce 560 of computer type Basic and 1200 of computer type XP to achieve maximum predicted profit of $199,600.
 
 
 #### Citations
