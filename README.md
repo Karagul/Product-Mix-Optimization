@@ -1,9 +1,10 @@
 
 # Case Study: PC Tech Company
 ###       by Mohit Singh
+<br>
 
 ### Problem statement
- <br>
+
 The PC Tech company assembles and then tests two models of computers, Basic and XP.
 For the coming month, the company wants to decide how many of each model to
 assembly and then test. No computers are in inventory from the previous month, and
