@@ -1,6 +1,8 @@
 
 # Case Study: PC Tech Company
+============================================
 
+###       by Mohit Singh
 
 ### Problem statement
  
